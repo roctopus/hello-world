@@ -1,4 +1,6 @@
 # hello-world
-a suggestion.
+## A Suggestion.
 
-hello, world. it seems you are going through some things.
+Hello, World. It seems you are going through some things.
+
+Might I suggest heady jams.
