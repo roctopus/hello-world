@@ -1,5 +1,5 @@
 # hello-world
-## A Suggestion.
+## a Suggestion.
 
 Hello, World. It seems you are going through some things.
 
